@@ -1,0 +1,5 @@
+DataBase:
+  Engin: "postgres"
+  DBName: "pgTest"
+  User: "postgres"
+  Password: 123456
